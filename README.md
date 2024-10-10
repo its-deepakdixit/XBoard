@@ -8,7 +8,7 @@
 
 
 
-👉 Live Demo: <a href='httpsnewsfeed-7682.netlify.app'>Live Demo</a>
+👉 Live Demo: <a href='https://newsfeed-7682.netlify.app'>Live Demo</a>
 
 List of Languages that were used to built this project .
 
